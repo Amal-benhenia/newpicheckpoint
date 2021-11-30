@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(160, 186, 204);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.UserList {
+  text-align: center;
+}
+.Users {
+  text-align: center;
+  margin-left:200px;
+  margin-right: 200px;
+  background-color: rgb(189, 224, 228);
+  border-radius: 10%;
+  
+}
+.Users h1 {
+  color: rgb(35, 124, 124);
+  font-family: 'Courier New', Courier, monospace;
+}
